@@ -1,0 +1,44 @@
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.deps.json
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.json
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.dev.json
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.dll
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.pdb
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csproj.CoreCompileInputs.cache
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfoInputs.cache
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfo.cs
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.dll
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.pdb
+C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csprojAssemblyReference.cache
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.deps.json
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.json
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.dev.json
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.dll
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.pdb
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csprojAssemblyReference.cache
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csproj.CoreCompileInputs.cache
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfoInputs.cache
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfo.cs
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.dll
+/Users/rafaeltavares/Documentos/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.pdb
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.deps.json
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.json
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.dev.json
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.dll
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.pdb
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csprojAssemblyReference.cache
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csproj.CoreCompileInputs.cache
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfoInputs.cache
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfo.cs
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.dll
+/Users/rafaeltavares/Dti digital/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.pdb
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.deps.json
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.json
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.runtimeconfig.dev.json
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.dll
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/bin/Debug/netcoreapp2.1/WhichPetshop.pdb
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csprojAssemblyReference.cache
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.csproj.CoreCompileInputs.cache
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfoInputs.cache
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfo.cs
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.dll
+/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.pdb

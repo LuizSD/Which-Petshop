@@ -1,0 +1,11 @@
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\bin\Release\netcoreapp2.1\WhichPetshop.deps.json
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\bin\Release\netcoreapp2.1\WhichPetshop.runtimeconfig.json
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\bin\Release\netcoreapp2.1\WhichPetshop.runtimeconfig.dev.json
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\bin\Release\netcoreapp2.1\WhichPetshop.dll
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\bin\Release\netcoreapp2.1\WhichPetshop.pdb
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\obj\Release\netcoreapp2.1\WhichPetshop.csproj.CoreCompileInputs.cache
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\obj\Release\netcoreapp2.1\WhichPetshop.AssemblyInfoInputs.cache
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\obj\Release\netcoreapp2.1\WhichPetshop.AssemblyInfo.cs
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\obj\Release\netcoreapp2.1\WhichPetshop.dll
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\obj\Release\netcoreapp2.1\WhichPetshop.pdb
+C:\Users\Lima\source\repos\WhichPetshop\WhichPetshop\obj\Release\netcoreapp2.1\WhichPetshop.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "name": "whichpetshop",
+  "version": "1.0.0",
+  "description": "teste pratico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Tavares",
+  "license": "ISC"
+}
