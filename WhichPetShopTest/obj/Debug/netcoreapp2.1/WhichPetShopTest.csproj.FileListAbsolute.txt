@@ -1,0 +1,17 @@
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetShopTest.deps.json
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetShopTest.runtimeconfig.json
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetShopTest.runtimeconfig.dev.json
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetShopTest.dll
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetShopTest.pdb
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetshop.dll
+C:\Projetos\Which-Petshop\WhichPetShopTest\bin\Debug\netcoreapp2.1\WhichPetshop.pdb
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.csprojAssemblyReference.cache
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.csproj.CoreCompileInputs.cache
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.AssemblyInfoInputs.cache
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.AssemblyInfo.cs
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.csproj.CopyComplete
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.dll
+C:\Projetos\Which-Petshop\WhichPetShopTest\obj\Debug\netcoreapp2.1\WhichPetShopTest.pdb

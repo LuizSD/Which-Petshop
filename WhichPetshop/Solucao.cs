@@ -149,11 +149,12 @@ namespace WhichPetshop
 			if (valorMinimo.Count() > 1)
 			{
 				valor = valorMinimo.FirstOrDefault().ValorTotal;
+                //O Correto seria filtrar pela menor distancia dentre os menores preços, ou seja w.Distancia == valorMinimo.Min(m => m.Distancia)
 				var canilMaisPerto = canilList.FirstOrDefault(w => w.ValorTotal == valor && w.Distancia == canilList.Min(m => m.Distancia));
 
 				resposta = string.Format("O canil '{0}' é o mais indicado, com um valor total de R${1}.", canilMaisPerto.NomeCanil, canilMaisPerto.ValorTotal.ToString("0.00"));
 			}
-			else if (valorMinimo.Count() == 1)
+			else if (valorMinimo.Count() == 1) //Else if não se faz necessario.
 			{
 				valor = valorMinimo.FirstOrDefault().ValorTotal;
 				var canil = canilList.FirstOrDefault(w => w.ValorTotal == valor);

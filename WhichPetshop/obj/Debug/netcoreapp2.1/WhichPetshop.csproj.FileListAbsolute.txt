@@ -42,3 +42,14 @@ C:/Users/Lima/source/repos/WhichPetshop/WhichPetshop/obj/Debug/netcoreapp2.1/Whi
 /Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.AssemblyInfo.cs
 /Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.dll
 /Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/Debug/netcoreapp2.1/WhichPetshop.pdb
+C:\Projetos\Which-Petshop\WhichPetshop\bin\Debug\netcoreapp2.1\WhichPetshop.deps.json
+C:\Projetos\Which-Petshop\WhichPetshop\bin\Debug\netcoreapp2.1\WhichPetshop.runtimeconfig.json
+C:\Projetos\Which-Petshop\WhichPetshop\bin\Debug\netcoreapp2.1\WhichPetshop.runtimeconfig.dev.json
+C:\Projetos\Which-Petshop\WhichPetshop\bin\Debug\netcoreapp2.1\WhichPetshop.dll
+C:\Projetos\Which-Petshop\WhichPetshop\bin\Debug\netcoreapp2.1\WhichPetshop.pdb
+C:\Projetos\Which-Petshop\WhichPetshop\obj\Debug\netcoreapp2.1\WhichPetshop.csprojAssemblyReference.cache
+C:\Projetos\Which-Petshop\WhichPetshop\obj\Debug\netcoreapp2.1\WhichPetshop.csproj.CoreCompileInputs.cache
+C:\Projetos\Which-Petshop\WhichPetshop\obj\Debug\netcoreapp2.1\WhichPetshop.AssemblyInfoInputs.cache
+C:\Projetos\Which-Petshop\WhichPetshop\obj\Debug\netcoreapp2.1\WhichPetshop.AssemblyInfo.cs
+C:\Projetos\Which-Petshop\WhichPetshop\obj\Debug\netcoreapp2.1\WhichPetshop.dll
+C:\Projetos\Which-Petshop\WhichPetshop\obj\Debug\netcoreapp2.1\WhichPetshop.pdb

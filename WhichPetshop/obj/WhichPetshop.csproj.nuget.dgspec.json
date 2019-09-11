@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/WhichPetshop.csproj": {}
+    "C:\\Projetos\\Which-Petshop\\WhichPetshop\\WhichPetshop.csproj": {}
   },
   "projects": {
-    "/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/WhichPetshop.csproj": {
+    "C:\\Projetos\\Which-Petshop\\WhichPetshop\\WhichPetshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/WhichPetshop.csproj",
+        "projectUniqueName": "C:\\Projetos\\Which-Petshop\\WhichPetshop\\WhichPetshop.csproj",
         "projectName": "WhichPetshop",
-        "projectPath": "/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/WhichPetshop.csproj",
-        "packagesPath": "/Users/rafaeltavares/.nuget/packages/",
-        "outputPath": "/Users/rafaeltavares/GitHub/Which-Petshop/WhichPetshop/obj/",
+        "projectPath": "C:\\Projetos\\Which-Petshop\\WhichPetshop\\WhichPetshop.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Which-Petshop\\WhichPetshop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/rafaeltavares/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +42,6 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
